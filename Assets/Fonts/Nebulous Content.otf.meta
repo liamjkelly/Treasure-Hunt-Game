@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5418a3c67e4250d459a04bf1e1a635c4
+timeCreated: 1499884222
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nebulous Content
+  fontNames:
+  - Nebulous Content
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
