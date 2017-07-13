@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "iglooFInder_buildFive.data.unityweb",
+"asmCodeUrl": "iglooFInder_buildFive.asm.code.unityweb",
+"asmMemoryUrl": "iglooFInder_buildFive.asm.memory.unityweb",
+"asmFrameworkUrl": "iglooFInder_buildFive.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

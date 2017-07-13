@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "iglooFinder_buildTwo.data.unityweb",
+"asmCodeUrl": "iglooFinder_buildTwo.asm.code.unityweb",
+"asmMemoryUrl": "iglooFinder_buildTwo.asm.memory.unityweb",
+"asmFrameworkUrl": "iglooFinder_buildTwo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

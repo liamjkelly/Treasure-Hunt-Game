@@ -18,6 +18,6 @@ public class CharControl : MonoBehaviour {
 		float vertical = Input.GetAxis ("Vertical");
 
 		//apply our input to our character controller
-		cc.Move(new Vector3(horizontal, 0f, vertical) * 1.5f + Physics.gravity * 0.1f);
+		cc.Move(new Vector3(horizontal, 0f, vertical) * 0.25f + Physics.gravity * 0.8f);
 	}
 }
